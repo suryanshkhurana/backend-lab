@@ -1,0 +1,3 @@
+This is the data.txt file.
+It is used to test Readable stream in Node.js.
+Streams make file reading efficient!

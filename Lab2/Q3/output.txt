@@ -1,0 +1,2 @@
+This is the input.txt file.
+Its content will be piped into output.txt using Node.js streams.
