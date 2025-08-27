@@ -1,0 +1,4 @@
+hello world
+this is a test file
+nodejs streams are powerful
+transform makes life easier
